@@ -1,0 +1,7 @@
+#Mon Jul 15 11:02:12 IST 2019
+base.0=/home/dextor/Desktop/AndroidStudioProjects/FBAUTH/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/dextor/Desktop/AndroidStudioProjects/FBAUTH/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
